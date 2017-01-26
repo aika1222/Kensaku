@@ -30,16 +30,3 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
-■■■■
-
-わたくし、カイロと申します。
-
-このソフトは、あらかじめフォルダの同じ階層においたテキストファイルから指定した文字列を検索します。
-文字列はString型です。
-クラス名や変数名はてきとうです^^
-テキストフィールドに検索語句を入力します。
-
-ファイル名を記述している63行目あたりに別なファイルを設定するなどして活用します。
-
-コーディングにはPatternクラスやMatcherクラスを使ってみました。
-■■■■
